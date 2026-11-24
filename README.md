@@ -1,5 +1,22 @@
 # ChronoLoad
 
+**▶ Try it in your browser (no install): https://cslayer0.github.io/hw1/**
+
+<details>
+<summary>Run it locally instead</summary>
+
+Requires [Node.js](https://nodejs.org) 20 or newer.
+
+```bash
+git clone https://github.com/cslayer0/hw1
+cd hw1
+npm install
+npm run dev
+```
+
+Then open the `http://localhost:5173` address it prints.
+</details>
+
 This project integrates **both** a predictive model and a recommender system that work together:
 
 ### 1. The Predictive Model (Daily Energy Wave)
